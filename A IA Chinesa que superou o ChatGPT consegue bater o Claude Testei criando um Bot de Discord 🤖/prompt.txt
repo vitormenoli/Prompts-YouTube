@@ -1,0 +1,29 @@
+Você é um desenvolvedor especialista em Discord.js v14. Crie um BOT DE UTILIDADE para Discord.
+IMPORTANTE:
+- Retorne apenas o código
+- Não explique nada
+- Utilize Discord.js v14 com Slash Commands
+- Utilize Embeds modernas
+- Utilize Buttons quando fizer sentido
+- Tratamento de erros obrigatório
+- Tudo em um único arquivo index.js
+COMANDOS:
+/ping
+- Latência do bot e da API
+/userinfo [usuário]
+- ID, nome, nickname, data de criação da conta, data de entrada no servidor, cargo mais alto, quantidade de cargos, avatar
+/serverinfo
+- Nome, ID, dono, total de membros, bots, canais, cargos, boost level, data de criação, ícone
+/avatar [usuário]
+- Exibe o avatar
+- Botão para abrir em tamanho original
+/help
+- Lista todos os comandos organizados por categoria
+- Embed moderna com navegação por botões
+/enquete [pergunta] [opção1] [opção2]
+- Cria uma enquete com botões de votação para cada opção
+- Após 60 segundos encerra automaticamente e exibe embed com resultado final e vencedor
+REQUISITOS:
+- Embeds com cores consistentes
+- Código limpo e bem organizado
+- Tudo em um único arquivo index.js
