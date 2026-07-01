@@ -1,0 +1,43 @@
+Crie um sistema completo de tickets para Discord utilizando Discord.js v14.
+IMPORTANTE:
+
+* Retorne apenas um único arquivo index.js
+* Não utilize múltiplos arquivos
+* Não explique o código
+* Não escreva textos adicionais
+* Apenas o código completo
+O sistema deve possuir:
+
+1. Slash command /ticket
+2. O comando deve enviar um painel de tickets com:
+
+* Embed bonita
+* Botão "Abrir Ticket"
+
+1. Ao clicar no botão:
+
+* Criar um canal privado
+* Apenas o usuário e a staff podem visualizar
+* O canal deve ser criado dentro da categoria configurada no código
+
+1. Dentro do ticket:
+
+* Exibir uma mensagem de boas-vindas
+* Exibir botão para fechar ticket
+
+1. Ao fechar:
+
+* Solicitar confirmação
+* Deletar o canal após confirmação
+
+1. Requisitos técnicos:
+
+* Discord.js v14
+* Slash commands
+* Buttons
+* Embeds modernas
+* Tratamento de erros
+* Código organizado
+* Comentários mínimos
+* Pronto para execução
+Objetivo: Criar o melhor sistema de tickets possível dentro de um único arquivo index.js.
