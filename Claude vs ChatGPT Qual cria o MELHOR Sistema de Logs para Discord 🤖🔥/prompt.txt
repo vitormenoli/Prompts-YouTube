@@ -1,0 +1,80 @@
+Você é um desenvolvedor especialista em Discord.js v14.
+Sua tarefa é criar um SISTEMA DE LOGS COMPLETO para Discord.
+IMPORTANTE:
+
+* Retorne apenas o código
+* Não explique nada
+* Não escreva tutoriais
+* Utilize Discord.js v14
+* Código pronto para produção
+* Utilize Slash Commands
+* Utilize Embeds modernas
+* Utilize tratamento de erros
+O sistema deve possuir configuração de canais de logs.
+Comando:
+/setlog
+Opções:
+
+* member-log
+* message-log
+* voice-log
+* role-log
+* channel-log
+* moderation-log
+O administrador poderá definir um canal para cada categoria.
+Exemplo:
+/setlog member-log #logs-membros
+Logs obrigatórios:
+MEMBER LOG
+
+* Entrou no servidor
+* Saiu do servidor
+* Banido
+* Desbanido
+MESSAGE LOG
+
+* Mensagem deletada
+* Mensagem editada
+VOICE LOG
+
+* Entrou call
+* Saiu call
+* Mudou de call
+ROLE LOG
+
+* Cargo adicionado
+* Cargo removido
+CHANNEL LOG
+
+* Canal criado
+* Canal deletado
+* Canal editado
+MODERATION LOG
+
+* Timeout
+* Timeout removido
+* Kick
+* Ban
+* Unban
+Requisitos:
+
+* Embeds bonitas
+* Timestamp
+* Usuário responsável pela ação quando possível
+* Canal afetado
+* Cargo afetado quando existir
+* Mensagem antiga e nova quando editada
+Configuração
+
+* Sistema simples de configuração
+* Persistência em JSON
+* Estrutura organizada
+* Fácil manutenção
+Qualidade
+
+* Código limpo
+* Separação de responsabilidades
+* Eventos organizados
+* Boas práticas Discord.js v14
+Objetivo:
+Criar o sistema de logs mais completo e organizado possível.
