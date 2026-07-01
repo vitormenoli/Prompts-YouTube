@@ -1,0 +1,132 @@
+Você é um desenvolvedor Frontend Senior especializado em landing pages modernas para produtos SaaS e bots do Discord.
+
+Sua tarefa é criar uma landing page COMPLETA para um bot de Discord chamado Menoli Bot.
+
+IMPORTANTE:
+
+- Retorne apenas o código
+- Não explique nada
+- Não escreva textos fora do código
+- Tudo deve estar em um único arquivo HTML
+- CSS e JavaScript devem estar embutidos
+- Não utilizar bibliotecas externas
+- Não utilizar frameworks
+- O resultado deve funcionar apenas abrindo o arquivo HTML
+
+OBJETIVO:
+
+Criar uma landing page moderna, profissional e visualmente impressionante para apresentar o Menoli Bot.
+
+IDENTIDADE VISUAL:
+
+- Tema principal verde (#22c55e)
+- Visual moderno
+- Estilo SaaS
+- Inspirado em produtos atuais
+- Aparência premium
+- Design limpo
+- Excelente espaçamento
+- Responsivo para celular e desktop
+
+SEÇÕES OBRIGATÓRIAS:
+
+1. HERO SECTION
+
+Deve conter:
+
+- Nome Menoli Bot
+- Subtítulo chamativo
+- Pequena descrição
+- Botão "Adicionar ao Discord"
+- Botão "Entrar no Servidor"
+- Background moderno
+- Efeito visual chamativo
+
+2. FUNCIONALIDADES
+
+Criar pelo menos 6 cards contendo:
+
+- Tickets
+- Moderação
+- Logs
+- Economia
+- Automações
+- IA Integrada
+
+Cada card deve possuir:
+
+- Ícone
+- Título
+- Descrição
+
+3. ESTATÍSTICAS
+
+Exibir:
+
+- 150.000+ usuários
+- 5.000+ servidores
+- 99.9% uptime
+- 1M+ comandos executados
+
+Com animação de contador.
+
+4. DEMONSTRAÇÃO
+
+Criar uma seção simulando comandos do Discord.
+
+Exemplo:
+
+/ticket criar
+/logs configurar
+/economia saldo
+
+Visual semelhante a um terminal moderno.
+
+5. FAQ
+
+Criar 5 perguntas frequentes.
+
+Com efeito de abrir e fechar.
+
+6. CALL TO ACTION
+
+Seção incentivando o usuário a adicionar o bot.
+
+Botão grande e chamativo.
+
+7. FOOTER
+
+Com:
+
+- Menoli Bot
+- Direitos reservados
+- Links fictícios
+
+EFEITOS VISUAIS:
+
+- Scroll suave
+- Animações suaves
+- Hover em botões
+- Hover em cards
+- Fade-in ao rolar a página
+- Glassmorphism quando fizer sentido
+- Gradientes modernos
+
+RESPONSIVIDADE:
+
+A landing page deve funcionar perfeitamente em:
+
+- Desktop
+- Tablet
+- Celular
+
+CRITÉRIOS DE AVALIAÇÃO:
+
+- Qualidade visual
+- Criatividade
+- Responsividade
+- Organização do código
+- Aparência profissional
+- Experiência do usuário
+
+Gere a melhor landing page possível.
