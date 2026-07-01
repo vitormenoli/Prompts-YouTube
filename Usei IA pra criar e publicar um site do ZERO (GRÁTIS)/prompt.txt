@@ -1,0 +1,6 @@
+Faça um site estilo landing page para um bot de Discord chamado Menoli
+menoli é um bot completo no Discord
+No site coloque links para navegar entre as seções da pagina e não coloque botões / links que devem ser vinculados com backend, vamos trabalhar com um projeto estático de frontend
+A logo do Bot deve ser um M com fundo preto e a letra Verde
+Use um layout clean e faça o site responsivo (utilizando o método mobile first)
+retorne o código para ser baixado e fazer upload na vercel integrado com github
