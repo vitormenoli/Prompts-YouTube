@@ -1,0 +1,16 @@
+Crie um Bot de Discord de Economia completo.
+Requisitos:
+- Discord.js v14
+- Database fictícia em JSON (sem MongoDB, sem banco real)
+- Comandos Slash:
+  - /saldo — ver saldo atual do usuário
+  - /transferir @usuario valor — transferir coins para outro usuário
+  - /daily — recompensa diária com cooldown de 24h
+  - /ranking — top 5 usuários mais ricos
+Regras:
+- Cooldown real de 24h no /daily
+- Não permitir transferência de valor negativo ou maior que o saldo
+- Usuário começa com 100 coins ao interagir pela primeira vez
+- Código limpo e comentado
+
+Entregue tudo em apenas um arquivo javascript
