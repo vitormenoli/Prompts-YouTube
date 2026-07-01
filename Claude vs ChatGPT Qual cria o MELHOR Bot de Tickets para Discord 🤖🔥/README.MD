@@ -1,4 +1,4 @@
-# Usei IA pra criar e publicar um site do ZERO (GRÁTIS)
+# Claude vs ChatGPT: Qual cria o MELHOR Bot de Tickets para Discord? 🤖🔥
 
 > [Veja o vídeo](https://youtu.be/ltXlQFUEdtY?si=SBZ6b01R6eeJZ3s5)
 

@@ -1,0 +1,117 @@
+Você é um desenvolvedor especialista em Discord.js v14.
+Sua tarefa é criar um BOT DE UTILIDADE COMPLETO para Discord.
+IMPORTANTE:
+
+* Retorne apenas o código
+* Não explique nada
+* Não escreva tutoriais
+* Utilize Discord.js v14
+* Código organizado e funcional
+* Utilize Slash Commands
+* Utilize Embeds modernas
+* Utilize Buttons quando fizer sentido
+* Tratamento de erros obrigatório
+* Código pronto para produção
+O bot deve possuir os seguintes comandos:
+/help
+
+* Exibir todos os comandos disponíveis
+* Organizar comandos por categorias
+* Embed moderna e intuitiva
+* Botões para navegação entre categorias
+/ping
+
+* Mostrar latência do bot
+* Mostrar latência da API
+/avatar
+
+* Mostrar avatar do usuário
+* Permitir visualizar avatar de outro usuário
+* Botão para abrir avatar em tamanho original
+/banner
+
+* Mostrar banner do usuário
+* Permitir visualizar banner de outro usuário
+/userinfo
+
+* ID
+* Nome
+* Nickname
+* Conta criada em
+* Entrou no servidor em
+* Quantidade de cargos
+* Cargo mais alto
+* Status atual
+* Avatar
+* Banner
+/serverinfo
+
+* Nome do servidor
+* ID do servidor
+* Dono
+* Quantidade de membros
+* Quantidade de bots
+* Quantidade de canais
+* Quantidade de cargos
+* Boost level
+* Quantidade de boosts
+* Data de criação
+* Ícone do servidor
+/roleinfo
+
+* Nome do cargo
+* ID do cargo
+* Cor
+* Quantidade de membros com o cargo
+* Posição
+* Data de criação
+* Permissões principais
+/channelinfo
+
+* Nome do canal
+* ID do canal
+* Tipo do canal
+* Categoria
+* Data de criação
+* Quantidade de permissões sobrescritas
+/membercount
+
+* Total de membros
+* Humanos
+* Bots
+/botinfo
+
+* Nome do bot
+* ID do bot
+* Uptime
+* Memória utilizada
+* Versão Discord.js
+* Versão Node.js
+* Ping
+* Quantidade de servidores
+* Quantidade de usuários
+/emojiinfo
+
+* Nome do emoji
+* ID
+* Animado ou não
+* Data de criação
+/invite
+
+* Embed bonita
+* Botão de convite
+* Botão de suporte
+* Botão de website
+Requisitos de qualidade:
+
+* Embeds modernas
+* Código limpo
+* Componentes reutilizáveis
+* Boas práticas Discord.js v14
+* Fácil manutenção
+* Estrutura profissional
+* Comandos organizados em arquivos separados
+* Sistema de carregamento automático de comandos
+* Sistema de tratamento global de erros
+Objetivo:
+Criar o melhor Bot de Utilidade possível, com aparência profissional, código escalável e recursos que realmente seriam utilizados em servidores Discord.
