@@ -1,0 +1,176 @@
+Você é um Desenvolvedor Frontend Senior especializado em React, Vite, Tailwind CSS e interfaces SaaS modernas.
+
+Sua tarefa é criar um Dashboard Web COMPLETO para um bot fictício do Discord chamado Menoli Bot.
+
+IMPORTANTE:
+
+* Retorne apenas o código
+* Não explique nada
+* Não escreva textos fora do código
+* O projeto deve ser Frontend apenas
+* Não utilizar Backend
+* Não utilizar Banco de Dados
+* Não utilizar APIs externas
+* Não criar autenticação funcional
+* Não criar sistema real de login
+* Não criar sistema real de cadastro
+* Todos os dados devem ser fictícios
+* Todos os gráficos devem utilizar dados fictícios
+* Todos os botões podem ser visuais apenas
+
+OBJETIVO:
+
+Criar um dashboard moderno e profissional como se fosse o painel oficial de gerenciamento do Menoli Bot.
+
+TECNOLOGIAS:
+
+* React
+* Vite
+* Tailwind CSS
+
+ORGANIZAÇÃO (MUITO IMPORTANTE):
+
+NÃO criar tudo em um único arquivo.
+
+O projeto deve ser organizado em múltiplos arquivos e pastas.
+
+Exemplo:
+
+src/
+
+components/
+
+* Sidebar.jsx
+* Header.jsx
+* StatCard.jsx
+* ServerCard.jsx
+* ChartCard.jsx
+* ActivityTable.jsx
+
+pages/
+
+* Dashboard.jsx
+
+layouts/
+
+* DashboardLayout.jsx
+
+data/
+
+* mockData.js
+
+assets/
+
+App.jsx
+
+A organização do projeto será um dos principais critérios de avaliação.
+
+Evite componentes gigantes.
+
+Priorize reutilização.
+
+INTERFACE:
+
+Tema:
+
+* Verde Menoli Bot
+* Dark Mode
+* Visual moderno
+* Estilo SaaS
+* Design premium
+
+SEÇÕES OBRIGATÓRIAS:
+
+1. Dashboard Principal
+
+Exibir:
+
+* Servidores
+* Usuários
+* Comandos executados
+* Uptime
+
+Utilizando cards modernos.
+
+2. Sidebar
+
+Itens:
+
+* Dashboard
+* Servidores
+* Tickets
+* Logs
+* Economia
+* Configurações
+
+3. Header
+
+Exibir:
+
+* Nome do bot
+* Avatar fictício
+* Campo de busca
+* Notificações
+
+4. Gráficos
+
+Utilizar dados fictícios para:
+
+* Crescimento de servidores
+* Uso de comandos
+* Atividade semanal
+
+5. Servidores
+
+Lista fictícia contendo:
+
+* Nome
+* Quantidade de membros
+* Status
+
+6. Atividades Recentes
+
+Tabela simulando:
+
+* Tickets criados
+* Logs registrados
+* Comandos executados
+
+7. Configurações
+
+Tela fictícia contendo:
+
+* Tema
+* Idioma
+* Prefixo
+* Logs
+
+Tudo visual apenas.
+
+RESPONSIVIDADE:
+
+O dashboard deve funcionar em:
+
+* Desktop
+* Tablet
+* Celular
+
+ANIMAÇÕES:
+
+* Hover em cards
+* Hover em botões
+* Transições suaves
+* Fade-in
+* Micro interações
+
+CRITÉRIOS DE AVALIAÇÃO:
+
+1. Organização do projeto
+2. Estrutura de pastas
+3. Qualidade do código
+4. Reutilização de componentes
+5. Design visual
+6. Responsividade
+7. Experiência do usuário
+
+O objetivo é criar o dashboard Frontend mais profissional possível para o Menoli Bot.
