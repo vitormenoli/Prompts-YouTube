@@ -1,0 +1,16 @@
+Crie uma landing page inspirada no Spotify usando HTML, CSS e JavaScript puro — em um único arquivo index.html.
+
+SEÇÕES OBRIGATÓRIAS:
+- Header: logo "Spotify" + navegação (Premium, Suporte, Baixar) + botões de login/cadastro
+- Hero: frase de impacto com gradiente de texto + dois botões CTA ("Começar grátis" e "Baixar o app")
+- Seção de planos: cards comparando plano Free e Premium com lista de benefícios e botão de ação
+- Playlists em destaque: grid de 4 cards com imagem de capa colorida, título da playlist e descrição curta
+- Player fixo no rodapé: capa da música atual, nome da música + artista, controles (anterior, play/pause, próximo), barra de progresso animada, volume
+
+REQUISITOS VISUAIS:
+- Paleta: fundo preto (#121212) + verde Spotify (#1DB954) + cinza escuro (#282828) + branco
+- Cards de playlist com efeito hover (escala sutil + sombra esverdeada)
+- Botão play no player com animação de pulsação
+- Barra de progresso do player animada (simula música tocando com JS)
+- Totalmente responsivo (mobile + desktop)
+- Arquivo único sem frameworks externos, pode usar Google Fonts
