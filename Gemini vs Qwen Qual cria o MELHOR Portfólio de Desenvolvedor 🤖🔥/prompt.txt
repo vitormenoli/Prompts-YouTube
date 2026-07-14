@@ -1,0 +1,19 @@
+Crie uma landing page de portfólio completa para um desenvolvedor web, em arquivo único index.html (HTML + CSS + JS inline).
+
+SEÇÕES OBRIGATÓRIAS:
+- Hero: nome "Vitor Menoli", título "Desenvolvedor Web & Entusiasta de IA", dois botões CTA (Ver Projetos / Entrar em Contato)
+- Sobre mim: parágrafo curto de apresentação
+- Skills: grid com pelo menos 6 tecnologias com ícones (JavaScript, Node.js, React, Discord.js, HTML/CSS, IA)
+- Projetos: 3 cards com nome, descrição curta, botão GitHub (links fictícios)
+- Contato: ícones clicáveis de GitHub, Discord e LinkedIn
+- Footer: copyright
+
+REQUISITOS VISUAIS:
+- Dark mode (fundo escuro, ~#0a0a0a)
+- Cor de destaque: roxo ou azul neon
+- Animações de entrada suaves (fade-in ou scroll reveal em CSS puro)
+- Totalmente responsivo (mobile + desktop)
+- Pode importar uma fonte do Google Fonts
+- Visual profissional e moderno — não genérico
+
+Arquivo único index.html, sem frameworks externos.
