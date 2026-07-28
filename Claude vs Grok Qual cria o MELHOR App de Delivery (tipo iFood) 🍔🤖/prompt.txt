@@ -1,0 +1,15 @@
+Crie a interface de um app de delivery de comida (estilo iFood) usando HTML, CSS e JavaScript puro — em um único arquivo index.html.
+SEÇÕES OBRIGATÓRIAS:
+- Header: barra de busca + ícone de localização "Entregar em: Casa"
+- Categorias: fileira horizontal de categorias com emoji (🍕 Pizza, 🍔 Lanches, 🍣 Japonesa, 🍰 Doces)
+- Lista de restaurantes: 4 cards com imagem (placeholder colorido), nome do restaurante, nota (estrelas), tempo de entrega, taxa de entrega
+- Ao clicar em um restaurante: mostrar cardápio com 5 itens (nome, descrição curta, preço, botão "+")
+- Carrinho flutuante no rodapé: mostra quantidade de itens e valor total, atualiza ao adicionar itens
+- Botão "Finalizar Pedido" fixo quando o carrinho tem itens
+REQUISITOS VISUAIS:
+- Cor de destaque: vermelho vibrante (estilo iFood) ou uma cor de escolha similar
+- Cards de restaurante com sombra suave e hover effect
+- Animação ao adicionar item ao carrinho (bounce ou fade)
+- Totalmente responsivo, otimizado pra mobile
+- Visual limpo, profissional, moderno
+Arquivo único, sem frameworks externos.
