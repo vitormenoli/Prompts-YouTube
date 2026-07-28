@@ -1,0 +1,16 @@
+Crie um clone da interface do Instagram usando HTML, CSS e JavaScript puro — em um único arquivo index.html.
+
+SEÇÕES OBRIGATÓRIAS:
+- Header fixo: logo "Instagram" + ícones de coração e mensagem
+- Stories: fileira horizontal com 6 círculos de stories com gradiente colorido na borda
+- Feed: 3 posts com foto de perfil, nome de usuário, imagem do post (placeholder colorido), botões de curtir/comentar/compartilhar, contagem de curtidas, legenda
+- Barra de navegação inferior fixa: ícones de Home, Buscar, Adicionar, Reels, Perfil
+
+REQUISITOS VISUAIS:
+- Fundo branco, estilo clean do Instagram real
+- Ícone de coração anima ao clicar (fica vermelho + scale up)
+- Stories com gradiente de cores (laranja-rosa-roxo) na borda
+- Totalmente responsivo, otimizado pra mobile
+- Fonte do sistema, visual moderno e polido
+
+Arquivo único, sem frameworks externos.
