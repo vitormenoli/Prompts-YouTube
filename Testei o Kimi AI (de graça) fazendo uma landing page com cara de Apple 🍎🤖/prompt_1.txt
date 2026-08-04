@@ -1,0 +1,21 @@
+Crie uma landing page profissional para o lançamento de um produto fictício de tecnologia,
+usando HTML, CSS e JavaScript puro em um único arquivo index.html.
+
+LINGUAGEM VISUAL: inspirada no design da Apple (apple.com) — não copiar conteúdo, só o
+ESTILO:
+- Hero section: título gigante e centralizado, produto com imagem/ilustração central,
+  bastante espaço em branco (ou preto, se for seção dark), sem poluição visual
+- Tipografia: fonte sans-serif fina e grande nos títulos, texto de apoio pequeno e discreto
+- Seções alternando fundo claro e escuro (ex: hero claro, seção de specs escura)
+- Seção de "recursos" com 3-4 blocos simples, ícone + título curto + 1 frase
+- Seção de comparação de versões/modelos (tipo tabela simples de specs)
+- Botões com bordas bem arredondadas (pill-shaped), efeito sutil de hover
+- Footer minimalista com links organizados em colunas
+
+REQUISITOS TÉCNICOS:
+- Scroll suave entre seções
+- Totalmente responsivo
+- Sem frameworks externos, tudo em um arquivo
+
+O critério mais importante: quem conhece o site da Apple deve olhar e pensar
+"isso parece com a Apple", mesmo sendo um produto inventado.

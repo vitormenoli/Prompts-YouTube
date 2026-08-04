@@ -1,0 +1,1 @@
+Faça um botão para selecionar o idioma na navbar Ingles ou Portugues/Brasil que traduz a pagina inteira automaticamente, e me retorne o codigo completo
