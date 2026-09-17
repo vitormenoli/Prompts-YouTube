@@ -1,0 +1,7 @@
+Faça um bot de Discord utilizando Javascript e a biblioteca discord.js (usando node js)
+
+Separe em pastas os arquivos com funções distintas no projeto
+
+Adicione comandos em slash de utilidade (avatar, botinfo, userinfo, serverindo, etc) Faça um comando de help interativo que puxe as informações diretamente do código do bot
+
+adicione sistema de administração simples e comandos famosos nos bots grandes
