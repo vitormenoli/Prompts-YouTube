@@ -1,0 +1,7 @@
+Crie uma plataforma premium e responsiva de aluguel e assinatura de carros esportivos de luxo, aproveitando ao máximo a identidade visual elegante, minimalista e de alta performance do sistema de design da Porsche.
+O aplicativo deve conter as seguintes páginas e funcionalidades:
+
+Dashboard Principal: Uma landing page de impacto com um banner "hero" imersivo, filtros rápidos de busca por modelo/potência e uma vitrine com cards interativos dos carros em destaque.
+Catálogo Detalhado: Uma página com grid fluido exibindo os veículos, incluindo especificações técnicas dinâmicas (cavalos de potência, 0 a 100 km/h, tipo de motor) ao passar o mouse.
+Seção de Agendamento: Um fluxo moderno com calendário interativo para o usuário simular datas, calcular o valor estimado e escolher pacotes de assinatura ou diárias.
+Painel do Usuário (Simulado): Uma área logada simulada onde o cliente consegue ver seus agendamentos ativos e o status da sua "garagem virtual". Garanta microinterações suaves nos botões, transições de página fluidas e um layout focado em alta conversão visual, mantendo a sobriedade e o luxo característicos da marca.
