@@ -1,0 +1,42 @@
+Atue como um Desenvolvedor Front-End Sênior e Designer UI/UX de elite. Crie uma Landing Page de conversão premium para um produto de produtividade chamado "Fluxo".
+O entregável deve ser um único arquivo HTML completo, utilizando as seguintes bibliotecas via CDN (carregadas diretamente nas tags `<head>` ou `<body>`):
+
+* Tailwind CSS v3 (Para um design ultra-clean, moderno e utilitário)
+* AOS - Animation on Scroll (Para animações profissionais engajadas no scroll do usuário)
+* Font Awesome (Para ícones vetoriais modernos e minimalistas)
+* Google Fonts (Fonte 'Plus Jakarta Sans' ou 'Inter')
+
+Siga rigorosamente as diretrizes de design, interações e estrutura abaixo:
+1. Estilização Clean, Moderna e Premium (Tailwind)
+
+* Estética "SaaS Premium": Inspirado no visual do Linear.app e Vercel. Use uma paleta majoritariamente escura e limpa (Fundo: `bg-[#0B0F19]`, Cards: `bg-[#131B2E]`), com bordas finas e sutis (`border-slate-800`).
+* Cor de Destaque (Accent): Um roxo elétrico e vibrante (`#6366F1` / `indigo-500`) usado estrategicamente em pontos de conversão.
+* Efeitos Modernos: Aplique efeito de vidro fosco (`backdrop-blur-md bg-opacity-70`) no menu superior, cantos arredondados generosos (`rounded-2xl`) nos cards e gradientes suaves de texto (`bg-clip-text text-transparent bg-gradient-to-r`).
+
+2. Animações e Transições Fluídas
+
+* Animações de Scroll (AOS): Configure elementos para surgirem suavemente à medida que a página é rolada. Os títulos devem fazer um `fade-up`, e os cards do Bento Grid devem aparecer em sequência (efeito cascata/delay).
+* Microinterações: Todos os botões e links devem ter transições suaves (`transition-all duration-300 ease-in-out`). Ao passar o mouse (hover) nos botões de CTA, eles devem ganhar um brilho sutil ou expandir levemente (`hover:scale-105 hover:shadow-[0_0_20px_rgba(99,102,241,0.4)]`).
+* Hover nos Cards: Os cards de preço e features devem subir levemente (`hover:-translate-y-2`) e mudar a cor da borda ao serem destacados pelo mouse.
+
+3. Estrutura do Conteúdo (HTML Semântico)
+
+* Navbar Fixa: Logo do "Fluxo", links de navegação com hover animado e botão minimalista de login.
+* Seção Hero (Impacto):
+   * Título centralizado gigante com efeito gradiente no termo principal.
+   * Botão de Call-to-Action (CTA) pulsante e chamativo.
+   * Um mockup abstrato abaixo do botão simulando a interface do app (linhas finas, elementos de UI falsos feitos com Tailwind e brilhos internos).
+* Seção Bento Grid (Features): 3 blocos assimétricos e elegantes usando ícones do Font Awesome:
+   1. Foco Inteligente (Ícone de IA/Cérebro).
+   2. Cronogramas Dinâmicos (Ícone de Calendário/Raio).
+   3. Métricas Profundas (Ícone de Gráfico de Linhas).
+* Seção de Preços Interativa: Dois planos. Adicione um botão "Switch" funcional no topo (Mensal / Anual). Ao clicar no switch, os preços devem alternar dinamicamente com uma transição suave de fade no texto.
+* Rodapé: Limpo, dividido em colunas, com direitos autorais e links de redes sociais em cinza opaco que acendem no hover.
+
+4. JavaScript e Dinâmica (Vanilla JS)
+
+* Ative o script da biblioteca AOS (`AOS.init()`) com configurações de duração personalizadas para suavidade.
+* Crie a lógica do Toggle de Preço (alterar os valores de $0 e $19 para os valores anuais com desconto quando o switch for ativado).
+* Crie um Modal de Captura de Lead dinâmico. Quando qualquer botão "Começar Gratuitamente" for clicado, exiba um modal centralizado com um formulário de e-mail limpo e uma mensagem de sucesso após o envio.
+
+Entregue todo o código estruturado de forma limpa, sem quebras e pronto para abrir no navegador.
